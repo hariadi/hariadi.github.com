@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Hariadi.Org]]></title>
-  <link href="http://hariadi.github.com/atom.xml" rel="self"/>
+  <title><![CDATA[Category: wip | Hariadi.Org]]></title>
+  <link href="http://hariadi.github.com/blog/categories/wip/atom.xml" rel="self"/>
   <link href="http://hariadi.github.com/"/>
   <updated>2013-04-18T09:37:05+08:00</updated>
   <id>http://hariadi.github.com/</id>
@@ -19,15 +19,6 @@
     <updated>2013-04-18T09:34:00+08:00</updated>
     <id>http://hariadi.github.com/blog/2013/04/18/perancangan</id>
     <content type="html"><![CDATA[<p>Aku ingat front-end ady.my aku nak buat URL Shorterner. Ah! dari dulu aku ingat.. aku ingat.. dah masuk 4 tahun aku ingat. Kakaka!</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Back to neolithic]]></title>
-    <link href="http://hariadi.github.com/blog/2012/10/31/back-to-neolithic/"/>
-    <updated>2012-10-31T12:40:00+08:00</updated>
-    <id>http://hariadi.github.com/blog/2012/10/31/back-to-neolithic</id>
-    <content type="html"><![CDATA[<p>We are going to built static page for PSD front end. No WYSIWYG, no SQL, and versioning. Let see..</p>
 ]]></content>
   </entry>
   
