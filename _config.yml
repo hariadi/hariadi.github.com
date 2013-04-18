@@ -2,10 +2,10 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://yoursite.com
-title: My Octopress Blog
+url: http://hariadi.github.com
+title: Hariadi.Org
 subtitle: A blogging framework for hackers.
-author: Your Name
+author: Hariadi Hinta
 simple_search: http://google.com/search
 description:
 
